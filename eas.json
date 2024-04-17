@@ -1,0 +1,24 @@
+{
+  "cli": {
+    "version": ">= 7.8.0"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal"
+    },
+    "preview": {
+      "distribution": "internal"
+    },
+    "production": {}
+  },
+  "submit": {
+    "production": {
+      "ios": {
+        "appleId": "anhvuong146@gmail.com",
+        "ascAppId": "6495973034",
+        "appleTeamId": "SSCD99L342"
+      }
+    }
+  }
+}
